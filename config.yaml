@@ -1,0 +1,4 @@
+s3: "your bucket name"
+input_dir: "indir"
+output_dir: "outdir"
+files: ['input.txt', 'input2.txt']
