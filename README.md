@@ -2,6 +2,12 @@
 
 This is a minimal Snakemake workflow example using s3-storage plugin.
 
+## Run
+
+```sh
+snakemake --cores 1
+```
+
 ## License
 
 MIT
